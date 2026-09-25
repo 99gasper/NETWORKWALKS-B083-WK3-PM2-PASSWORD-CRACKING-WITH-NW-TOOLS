@@ -34,14 +34,13 @@ The main objectives of this practical were to:
 ## Step 1: Open Hash Calculator
 https://networkwalks.com/hash-calculator/
 
-![John the Ripper Installation](screenshots/01-john-installation.png)
-
+<img src="./screenshots/1-Hash calculator.png" width="800">
 ---
 
 ## Step 2: Click PDF and Choose the PDF To Get The Hash Then Copy it
-
-![PDF Hash Extraction](screenshots/02-pdf-hash-extraction.png)
-
+<img src="./screenshots/2-hash1.png" width="800">
+<img src="./screenshots/2-hash1.png" width="800">
+<img src="./screenshots/2-hash1.png" width="800">
 ---
 
 ## Step 3: Open Password Cracker and Paste the Hash
