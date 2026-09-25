@@ -39,14 +39,14 @@ https://networkwalks.com/hash-calculator/
 
 ## Step 2: Click PDF and Choose the PDF To Get The Hash Then Copy it
 <img src="./screenshots/2-hash1.jpg" width="800" length="100cm">
-<img src="./screenshots/2-hash1.jpg" width="800" length="800">
-<img src="./screenshots/2-hash1.jpg" width="800" length="800">
+
 ---
 
 ## Step 3: Open Password Cracker and Paste the Hash
 
-<img src="./screenshots/2-hash1.jpg" width="800" length="800">
-
+<img src="./screenshots/3-pass1.jpg" width="800" length="800">
+<img src="./screenshots/3-pass2.jpg" width="800" length="800">
+<img src="./screenshots/3-pass3.jpg" width="800" length="800">
 ---
 
 ## Step 4: After Getting the Password Open the Document
