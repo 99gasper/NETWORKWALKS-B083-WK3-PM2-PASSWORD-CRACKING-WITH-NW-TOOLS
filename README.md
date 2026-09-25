@@ -51,8 +51,9 @@ https://networkwalks.com/hash-calculator/
 
 ## Step 4: After Getting the Password Open the Document
 
-![John the Ripper Cracking](screenshots/04-john-cracking.png)
-
+<img src="./screenshots/4-pdf1.png" width="800" length="800">
+<img src="./screenshots/4-pdf2.png" width="800" length="800">
+<img src="./screenshots/4-pdf3.png" width="800" length="800">
 ---
 
 # 💡 What I Learned
